@@ -1,6 +1,6 @@
 # 📘 LeetCode Solutions
 
-Solutions to LeetCode problems, organised by difficulty. Each folder contains its own `README.md` with the problem statement and constraints.
+Solutions to [LeetCode](https://leetcode.com/u/rontaro/) problems, organised by difficulty. Each folder contains its own `README.md` with the problem statement and constraints.
 
 ---
 
