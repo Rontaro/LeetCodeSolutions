@@ -1,21 +1,20 @@
-# Two Sum II - Input Array Is Sorted
+# Two Sum II – Input Array Is Sorted
 
-**Link all'esercizio:** [LeetCode - Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/1739524046/)  
+**Problem link:** [LeetCode - Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
 
-## Descrizione
+## Description
 
-Dato un array 1-indicizzato di interi ordinato in modo non decrescente, trova due numeri tali che la loro somma sia uguale a un valore target specifico.  
-Devi restituire gli indici dei due numeri (index1 e index2) come array di lunghezza 2, dove `1 <= index1 < index2 <= numbers.length`.  
-Gli indici devono essere restituiti incrementati di uno rispetto alla posizione nell'array.  
+Given a sorted array of integers `numbers` and a target integer `target`, return the indices of the two numbers such that they add up to `target`.  
+The solution must use constant extra space and the indices returned must be 1-based.
 
-È garantita l'esistenza di una sola soluzione.  
-Non è permesso usare lo stesso elemento due volte.  
-La soluzione deve utilizzare solo spazio extra costante.
+### Example
+
+- Input: `numbers = [2,7,11,15]`, `target = 9` → Output: `[1,2]`  
+  (Because `numbers[0] + numbers[1] == 9`)
 
 ## Constraints
 
-- `2 <= numbers.length <= 3 * 10^4`
-- `-1000 <= numbers[i] <= 1000`
-- `numbers` è ordinato in modo non decrescente
-- `-1000 <= target <= 1000`
-- È garantita una sola soluzione
+- `2 <= numbers.length <= 10^5`
+- `-10^9 <= numbers[i] <= 10^9`
+- `numbers` is sorted in non-decreasing order
+- Exactly one solution exists

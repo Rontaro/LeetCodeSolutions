@@ -1,19 +1,20 @@
 # Same Tree
 
-**Link all'esercizio:** [LeetCode - Same Tree](https://leetcode.com/problems/same-tree/submissions/1739445753/)  
+**Problem link:** [LeetCode - Same Tree](https://leetcode.com/problems/same-tree)
 
-## Descrizione
+## Description
 
-Dato il root di due alberi binari `p` e `q`, scrivi una funzione che verifichi se sono uguali.  
-Due alberi binari sono considerati uguali se sono strutturalmente identici e i nodi corrispondenti hanno lo stesso valore.
+Given two binary trees `p` and `q`, write a function to check if they are the same.  
+Two binary trees are considered the same if they are structurally identical and the nodes have the same value.
 
-### Esempi
+### Example
 
-- Input: `p = [1,2,3]`, `q = [1,2,3]` → Output: `true`  
-- Input: `p = [1,2]`, `q = [1,null,2]` → Output: `false`  
-- Input: `p = [1,2,1]`, `q = [1,1,2]` → Output: `false`
+- Input:  
+  `p = [1,2,3]`,  
+  `q = [1,2,3]`  
+  → Output: `true`
 
 ## Constraints
 
-- Il numero di nodi in entrambi gli alberi è compreso tra `0` e `100`
+- The number of nodes in both trees is in the range `[0, 100]`
 - `-10^4 <= Node.val <= 10^4`
