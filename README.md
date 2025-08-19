@@ -1,10 +1,30 @@
 # 📘 LeetCode Solutions
 
-Solutions to LeetCode problems, organised by difficulty. Each folder contains its own `README.md` with the problem statement and constraints.
+Solutions to LeetCode problems, organized by difficulty and language. Each folder contains its own `README.md` with the problem statement and constraints.
+
+🔗 [My LeetCode profile](https://leetcode.com/u/rontaro/)
 
 ---
 
-## 🟢 Easy
+## 📊 Problem Count by Difficulty
+
+| Difficulty | Count |
+|------------|-------|
+| 🟢 Easy    | 22    |
+| 🟡 Medium  | 16    |
+| 🔴 Hard    | 0     |
+
+## 💻 Solution Count by Language
+
+| Language     | Count |
+|--------------|-------|
+| JavaScript   |   32  |
+| Java         |   5   |
+| SQL          |   1   |
+
+---
+
+## 🟢 Easy Problems
 
 | Problem | Description | Topics |
 |--------|-------------|--------|
@@ -17,9 +37,10 @@ Solutions to LeetCode problems, organised by difficulty. Each folder contains it
 | [Kids With the Greatest Number of Candies](./KidsWithTheGreatestNumberOfCandies/README.md) | Determine which kids can have the greatest number of candies. | Array |
 | [Maximum Average Subarray I](./MaximumAverageSubarrayI/README.md) | Find the maximum average of a subarray of length k. | Array, Sliding Window |
 | [Maximum Depth of Binary Tree](./MaximumDepthOfBinaryTree/README.md) | Compute the maximum depth of a binary tree. | Tree, DFS, BFS |
-| [Number of Recent Calls](./NumberOfRecentCalls/README.md) | Count recent calls within a time window. | Design, Queue, Data Stream |
+| [Number of Recent Calls](./NumberOfRecentCalls/README.md) | Count recent calls within a time window. | Design, Queue |
 | [Remove Element](./RemoveElement/README.md) | Remove all instances of a given value from an array. | Array, Two Pointers |
 | [Reverse Integer](./ReverseInteger/README.md) | Reverse digits of an integer. | Math |
+| [Reverse Linked List](./ReverseLinkedList/README.md) | Reverse a singly linked list. | Linked List |
 | [Reverse Vowels of a String](./ReverseVowelsOfAString/README.md) | Reverse only the vowels in a string. | Two Pointers, String |
 | [Reverse Words of a String](./ReverseWordsOfAString/README.md) | Reverse the order of words in a string. | String |
 | [Same Tree](./SameTree/README.md) | Check if two binary trees are identical. | Tree, DFS |
@@ -31,14 +52,14 @@ Solutions to LeetCode problems, organised by difficulty. Each folder contains it
 
 ---
 
-## 🟡 Medium
+## 🟡 Medium Problems
 
 | Problem | Description | Topics |
 |--------|-------------|--------|
 | [Cache With Time Limit](./CacheWithTimeLimit/README.md) | Implement a cache that expires entries after a given time. | Design, Hash Table |
 | [Delete the Middle Node of a Linked List](./DeleteTheMiddleNodeOfALinkedList/README.md) | Remove the middle node from a linked list. | Linked List, Two Pointers |
 | [Determine if Two Strings Are Close](./DetermineIfTwoStringsAreClose/README.md) | Check if two strings are close based on allowed operations. | Hash Table, String |
-| [Equal Row and Column Pairs](./EqualRowAndColumnPairs/README.md) | Count pairs where a row equals a column in a grid. | Array, Hash Table, Matrix |
+| [Equal Row and Column Pairs](./EqualRowAndColumnPairs/README.md) | Count pairs where a row equals a column in a grid. | Array, Hash Table |
 | [Find the Difference of Two Arrays](./FindTheDifferenceOfTwoArrays/README.md) | Return the distinct elements between two arrays. | Hash Table |
 | [Increasing Triplet Subsequence](./IncreasingTripletSubsequence/README.md) | Check if there exists a triplet with increasing values. | Array, Greedy |
 | [Leaf-Similar Trees](./LeafSimilarTrees/README.md) | Check if two trees have the same leaf sequence. | Tree, DFS |
@@ -47,7 +68,7 @@ Solutions to LeetCode problems, organised by difficulty. Each folder contains it
 | [Max Number of K-Sum Pairs](./MaxNumberOfKSumPairs/README.md) | Find the maximum number of pairs that sum to k. | Array, Hash Table |
 | [Merge Strings Alternately](./MergeStringsAlternately/README.md) | Merge two strings by alternating characters. | Two Pointers, String |
 | [Move Zeroes](./MoveZeroes/README.md) | Move all zeroes to the end while maintaining order. | Array, Two Pointers |
-| [Product of Array Except Self](./ProductOfArrayExceptSelf/README.md) | Return an array where each element is the product of all other elements. | Array, Prefix Sum |
+| [Product of Array Except Self](./ProductOfArrayExceptSelf/README.md) | Return an array where each element is the product of all other elements. | Array, Prefix Product |
 | [Removing Stars From a String](./RemovingStarsFromAString/README.md) | Remove stars and the closest non-star character to the left. | String, Stack |
 | [Reverse Degree of a String](./ReverseDegreeOfAString/README.md) | Reverse the degree/order of characters in a string. | String |
 | [String Compression](./StringCompression/README.md) | Compress a string in-place. | Two Pointers, String |
