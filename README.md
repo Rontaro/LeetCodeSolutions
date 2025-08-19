@@ -1,6 +1,6 @@
 # 📘 LeetCode Solutions
 
-Solutions to [LeetCode](https://leetcode.com/u/rontaro/) problems, organised by difficulty. Each folder contains its own `README.md` with the problem statement and constraints.
+Solutions to LeetCode problems, organised by difficulty. Each folder contains its own `README.md` with the problem statement and constraints.
 
 ---
 
@@ -44,6 +44,7 @@ Solutions to [LeetCode](https://leetcode.com/u/rontaro/) problems, organised by 
 | [Leaf-Similar Trees](./LeafSimilarTrees/README.md) | Check if two trees have the same leaf sequence. | Tree, DFS |
 | [Longest Subarray of 1's After Deleting One Element](./LongestSubarrayOf1sAfterDeletingOneElement/README.md) | Find the longest subarray of 1's after deleting one element. | Array, Sliding Window |
 | [Maximum Number of Vowels in a Substring of Given Length](./MaximumNumberOfVowelsInASubstringOfGivenLength/README.md) | Find the max number of vowels in a fixed-length substring. | String, Sliding Window |
+| [Max Number of K-Sum Pairs](./MaxNumberOfKSumPairs/README.md) | Find the maximum number of pairs that sum to k. | Array, Hash Table |
 | [Merge Strings Alternately](./MergeStringsAlternately/README.md) | Merge two strings by alternating characters. | Two Pointers, String |
 | [Move Zeroes](./MoveZeroes/README.md) | Move all zeroes to the end while maintaining order. | Array, Two Pointers |
 | [Product of Array Except Self](./ProductOfArrayExceptSelf/README.md) | Return an array where each element is the product of all other elements. | Array, Prefix Sum |
