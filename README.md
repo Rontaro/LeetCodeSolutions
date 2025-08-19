@@ -1,6 +1,6 @@
 # 📘 LeetCode Solutions
 
-Solutions to LeetCode problems, organized by difficulty and language. Each folder contains its own `README.md` with the problem statement and constraints.
+Solutions to LeetCode problems, organized by difficulty and language. Each folder contains its own `README.md` with the problem description and constraints.
 
 🔗 [My LeetCode profile](https://leetcode.com/u/rontaro/)
 
@@ -12,15 +12,15 @@ Solutions to LeetCode problems, organized by difficulty and language. Each folde
 |------------|-------|
 | 🟢 Easy    | 22    |
 | 🟡 Medium  | 16    |
-| 🔴 Hard    | 0     |
+| 🔴 Hard    | 1     |
 
 ## 💻 Solution Count by Language
 
 | Language     | Count |
 |--------------|-------|
-| JavaScript   |   32  |
-| Java         |   5   |
-| SQL          |   1   |
+| JavaScript   | 33    |
+| Java         | 5     |
+| SQL          | 1     |
 
 ---
 
@@ -72,3 +72,11 @@ Solutions to LeetCode problems, organized by difficulty and language. Each folde
 | [Removing Stars From a String](./RemovingStarsFromAString/README.md) | Remove stars and the closest non-star character to the left. | String, Stack |
 | [Reverse Degree of a String](./ReverseDegreeOfAString/README.md) | Reverse the degree/order of characters in a string. | String |
 | [String Compression](./StringCompression/README.md) | Compress a string in-place. | Two Pointers, String |
+
+---
+
+## 🔴 Hard Problems
+
+| Problem | Description | Topics |
+|--------|-------------|--------|
+| [Median of Two Sorted Arrays](./MedianOfTwoSortedArrays/README.md) | Find the median of two sorted arrays in logarithmic time. | Array, Binary Search, Divide and Conquer |
