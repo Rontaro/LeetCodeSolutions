@@ -1,8 +1,9 @@
 # 📘 LeetCode Solutions
 
-Solutions to LeetCode problems, organized by difficulty and language. Each folder contains its own `README.md` with the problem description and constraints.
+Solutions to LeetCode problems, organized by difficulty and language.  
+Each folder contains its own README.md with the problem description and constraints.
 
-🔗 [My LeetCode profile](https://leetcode.com/u/rontaro/)
+🔗 [My LeetCode profile](https://leetcode.com/Rontaro)
 
 ---
 
@@ -10,17 +11,19 @@ Solutions to LeetCode problems, organized by difficulty and language. Each folde
 
 | Difficulty | Count |
 |------------|-------|
-| 🟢 Easy    | 22    |
+| 🟢 Easy    | 23    |
 | 🟡 Medium  | 16    |
 | 🔴 Hard    | 1     |
 
+---
+
 ## 💻 Solution Count by Language
 
-| Language     | Count |
-|--------------|-------|
-| JavaScript   | 33    |
-| Java         | 5     |
-| SQL          | 1     |
+| Language   | Count |
+|------------|-------|
+| JavaScript | 34    |
+| Java       | 5     |
+| SQL        | 1     |
 
 ---
 
@@ -33,6 +36,7 @@ Solutions to LeetCode problems, organized by difficulty and language. Each folde
 | [Filter Elements from Array](./FilterElementsFromArray/README.md) | Remove elements from an array based on a filtering function. | Array |
 | [Find Pivot Index](./FindPivotIndex/README.md) | Find the index where the sum on the left equals the sum on the right. | Array, Prefix Sum |
 | [Find the Highest Altitude](./FindTheHighestAltitude/README.md) | Find the highest altitude reached given gain values. | Array, Prefix Sum |
+| [Guess Number Higher or Lower](./GuessNumberHigherOrLower/README.md) | Guess the number using binary search strategy. | Binary Search |
 | [Is Subsequence](./IsSubsequence/README.md) | Check if one string is a subsequence of another. | Two Pointers, String |
 | [Kids With the Greatest Number of Candies](./KidsWithTheGreatestNumberOfCandies/README.md) | Determine which kids can have the greatest number of candies. | Array |
 | [Maximum Average Subarray I](./MaximumAverageSubarrayI/README.md) | Find the maximum average of a subarray of length k. | Array, Sliding Window |
