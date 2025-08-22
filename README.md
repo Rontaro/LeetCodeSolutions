@@ -11,7 +11,7 @@ Each folder contains its own README.md with the problem description and constrai
 
 | Difficulty | Count |
 |------------|-------|
-| 🟢 Easy    | 23    |
+| 🟢 Easy    | 24    |
 | 🟡 Medium  | 16    |
 | 🔴 Hard    | 1     |
 
@@ -21,7 +21,7 @@ Each folder contains its own README.md with the problem description and constrai
 
 | Language   | Count |
 |------------|-------|
-| JavaScript | 34    |
+| JavaScript | 35    |
 | Java       | 5     |
 | SQL        | 1     |
 
@@ -41,6 +41,7 @@ Each folder contains its own README.md with the problem description and constrai
 | [Kids With the Greatest Number of Candies](./KidsWithTheGreatestNumberOfCandies/README.md) | Determine which kids can have the greatest number of candies. | Array |
 | [Maximum Average Subarray I](./MaximumAverageSubarrayI/README.md) | Find the maximum average of a subarray of length k. | Array, Sliding Window |
 | [Maximum Depth of Binary Tree](./MaximumDepthOfBinaryTree/README.md) | Compute the maximum depth of a binary tree. | Tree, DFS, BFS |
+| [N-th Tribonacci Number](./NThTribonacciNumber/README.md) | Return the n-th number in the Tribonacci sequence. | Dynamic Programming |
 | [Number of Recent Calls](./NumberOfRecentCalls/README.md) | Count recent calls within a time window. | Design, Queue |
 | [Remove Element](./RemoveElement/README.md) | Remove all instances of a given value from an array. | Array, Two Pointers |
 | [Reverse Integer](./ReverseInteger/README.md) | Reverse digits of an integer. | Math |
